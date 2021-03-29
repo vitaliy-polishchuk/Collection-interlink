@@ -1,0 +1,16 @@
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/bin/Debug/net5.0/EmployeeBirthdays
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/bin/Debug/net5.0/EmployeeBirthdays.deps.json
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/bin/Debug/net5.0/EmployeeBirthdays.runtimeconfig.json
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/bin/Debug/net5.0/EmployeeBirthdays.runtimeconfig.dev.json
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/bin/Debug/net5.0/EmployeeBirthdays.dll
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/bin/Debug/net5.0/ref/EmployeeBirthdays.dll
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/bin/Debug/net5.0/EmployeeBirthdays.pdb
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/obj/Debug/net5.0/EmployeeBirthdays.csprojAssemblyReference.cache
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/obj/Debug/net5.0/EmployeeBirthdays.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/obj/Debug/net5.0/EmployeeBirthdays.AssemblyInfoInputs.cache
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/obj/Debug/net5.0/EmployeeBirthdays.AssemblyInfo.cs
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/obj/Debug/net5.0/EmployeeBirthdays.csproj.CoreCompileInputs.cache
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/obj/Debug/net5.0/EmployeeBirthdays.dll
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/obj/Debug/net5.0/ref/EmployeeBirthdays.dll
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/obj/Debug/net5.0/EmployeeBirthdays.pdb
+/home/vitaliy/Документы/work/Employee birthdays/EmployeeBirthdays/obj/Debug/net5.0/EmployeeBirthdays.genruntimeconfig.cache
